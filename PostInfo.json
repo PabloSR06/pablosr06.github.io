@@ -1,0 +1,26 @@
+[
+  {
+    "title": "Retrofit Android",
+    "fileName": "retrofitAndroid",
+    "date": "MAR 02, 2022",
+    "tags": ["Java", "Android"]
+  },
+  {
+    "title": "How to prepare a Java development environment on Windows",
+    "fileName": "javaEnviroment",
+    "date": "MAR 16, 2022",
+    "tags": ["Java", "Android", "Windows"]
+  },
+  {
+    "title": "AZURE AD Obtaining OAuth Token",
+    "fileName": "azureADOAuth",
+    "date": "APR 30, 2022",
+    "tags": ["C#", "AzureAD"] 
+  },
+  {
+    "title": "How to write descent commits",
+    "fileName": "writecommits",
+    "date": "JUN 03, 2022",
+    "tags": ["Git"]
+  }
+]

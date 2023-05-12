@@ -33,7 +33,7 @@
       "url": "_framework\/icudt.dat"
     },
     {
-      "hash": "sha256-T7zZE2VvP6BxvVCAfWwqOMI3S\/BFlrV1g1+xq8yHO+g=",
+      "hash": "sha256-ByhQ9fGVAesV3R321O2F\/p17dE24d7nCygy3HOzRGiA=",
       "url": "_framework\/blazor.boot.json"
     },
     {
@@ -105,7 +105,7 @@
       "url": "_framework\/Microsoft.JSInterop.WebAssembly.dll"
     },
     {
-      "hash": "sha256-C7wN1QVZZ4qs1Sl\/szw0HgS0PA2Tn\/D+DjzayF3YrW4=",
+      "hash": "sha256-+Cjf4PByj3ffJUgHmXIWbsnqrRUEhoPdCRLsj3qGvmI=",
       "url": "_framework\/MyBlog.dll"
     },
     {
@@ -293,7 +293,7 @@
       "url": "appsettings.json"
     },
     {
-      "hash": "sha256-YzjD2FwEr4LCQxj3kQcdnZ\/qnTqUNJfXs1dPDX6W+ys=",
+      "hash": "sha256-ztDSpqClZvbr7cnDuSOJRnGYhalnftzVp67y1oFsSP0=",
       "url": "MyBlog.styles.css"
     },
     {
@@ -377,7 +377,7 @@
       "url": "icon-512.png"
     },
     {
-      "hash": "sha256-sx0zp0iKlU\/x6qUR9Z\/OSn3DAXQkP1ectHvdMh4rR7M=",
+      "hash": "sha256-gAuFdsWzl6HU61ihu1HUffyTvpkY2b+VdayJc2c72pU=",
       "url": "index.html"
     },
     {
@@ -389,5 +389,5 @@
       "url": "PostInfo.json"
     }
   ],
-  "version": "aQMvXDmg"
+  "version": "fq1BkvVF"
 };

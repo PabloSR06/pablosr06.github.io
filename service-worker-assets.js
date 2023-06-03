@@ -357,6 +357,18 @@
       "url": "files\/posts\/azureADOAuth.md"
     },
     {
+      "hash": "sha256-vU3HoZrwQuDupuzdqtYYnqW7t7wzKCNDM\/bJf7dbGSQ=",
+      "url": "files\/posts\/blazorInGithubPages.md"
+    },
+    {
+      "hash": "sha256-XeQtWBYKt8OzdlJvse8yGtMgzUZ\/vWOD0fycjJ\/yorA=",
+      "url": "files\/posts\/img\/action.png"
+    },
+    {
+      "hash": "sha256-jufjD1aEZD6Rm3Cwe69s\/IxBjmqXsRgfyMxLsois\/n8=",
+      "url": "files\/posts\/img\/githubpages.png"
+    },
+    {
       "hash": "sha256-aRShOsSABYdGTSQ1EAYVAsEX1djbAATvAZTljRvJV3g=",
       "url": "files\/posts\/javaEnvironment.md"
     },
@@ -385,9 +397,9 @@
       "url": "manifest.json"
     },
     {
-      "hash": "sha256-oLlnwueMM52ZL5Sj2eG3uaNs0IeY\/FJ6xwYOne+PLlM=",
+      "hash": "sha256-DsqnEFGn3K\/QL4Cff4RsqqvAtnPCLUrwa2iN5GxykO8=",
       "url": "PostInfo.json"
     }
   ],
-  "version": "fq1BkvVF"
+  "version": "iwjIKb5w"
 };

@@ -397,9 +397,9 @@
       "url": "manifest.json"
     },
     {
-      "hash": "sha256-DsqnEFGn3K\/QL4Cff4RsqqvAtnPCLUrwa2iN5GxykO8=",
+      "hash": "sha256-69UOQxu+ExpLk6NNv\/hKm7cQtePbWzn54rPef7kXCwM=",
       "url": "PostInfo.json"
     }
   ],
-  "version": "iwjIKb5w"
+  "version": "fcvP3gAv"
 };

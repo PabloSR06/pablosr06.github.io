@@ -293,7 +293,7 @@
       "url": "appsettings.json"
     },
     {
-      "hash": "sha256-ztDSpqClZvbr7cnDuSOJRnGYhalnftzVp67y1oFsSP0=",
+      "hash": "sha256-\/Oh3cmLqQVHOpvWxCJoPma3SMYzHRgUBHY1MQo5kJK4=",
       "url": "MyBlog.styles.css"
     },
     {
@@ -401,5 +401,5 @@
       "url": "PostInfo.json"
     }
   ],
-  "version": "NUABHsfe"
+  "version": "cFs\/7\/hv"
 };

@@ -357,7 +357,7 @@
       "url": "files\/posts\/azureADOAuth.md"
     },
     {
-      "hash": "sha256-vU3HoZrwQuDupuzdqtYYnqW7t7wzKCNDM\/bJf7dbGSQ=",
+      "hash": "sha256-K1UdcOh1BYSwAXv2zAmy2aDCgbw5zQim28w846dAfdk=",
       "url": "files\/posts\/blazorInGithubPages.md"
     },
     {
@@ -401,5 +401,5 @@
       "url": "PostInfo.json"
     }
   ],
-  "version": "fcvP3gAv"
+  "version": "NUABHsfe"
 };

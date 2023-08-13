@@ -82,8 +82,10 @@
 }
 /* /Components/PostInfo.razor.rz.scp.css */
 .post-info[b-0yw0i7x8k6] {
+    text-align: center;
 }
 .post-title[b-0yw0i7x8k6] {
+    font-size: 2em;
 }
 .post-date[b-0yw0i7x8k6] {
     font-size: 0.8em;
@@ -91,14 +93,14 @@
 }
 .post-content[b-0yw0i7x8k6] {
     max-width: 100%;
-}
-.post-content img[b-0yw0i7x8k6] {
-    max-width: 100%;
-    height: auto;
+    overflow: hidden;
 }
 .post[b-0yw0i7x8k6] {
-    width: 800px;
+    width: 100%;
+    max-width: 800px;
     margin: 0 auto;
+    padding: 20px;
+    box-sizing: border-box;
 }
 /* /Components/PostList.razor.rz.scp.css */
 .blogList-info[b-xf0f7egu7k] {

@@ -361,7 +361,7 @@
       "url": "files\/posts\/azureADOAuth.md"
     },
     {
-      "hash": "sha256-XLHoDI5oDCq6miFzcgPC6urqZY2DuW+\/i2xLTaTzVf8=",
+      "hash": "sha256-PvNO6T\/iluTauIRcDWJp6jiS95wpTYdOpVZyr2WKSps=",
       "url": "files\/posts\/basicMetricsInMl.md"
     },
     {
@@ -409,5 +409,5 @@
       "url": "PostInfo.json"
     }
   ],
-  "version": "YxSZceX3"
+  "version": "g26Ae3zk"
 };

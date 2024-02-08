@@ -369,6 +369,10 @@
       "url": "files\/posts\/blazorInGithubPages.md"
     },
     {
+      "hash": "sha256-FHn5F7yATT87f9tPpKXo2HWBUagXMrUJ2KaTsjgFfkg=",
+      "url": "files\/posts\/image.png"
+    },
+    {
       "hash": "sha256-XeQtWBYKt8OzdlJvse8yGtMgzUZ\/vWOD0fycjJ\/yorA=",
       "url": "files\/posts\/img\/action.png"
     },
@@ -377,8 +381,16 @@
       "url": "files\/posts\/img\/githubpages.png"
     },
     {
+      "hash": "sha256-HQRO2pVMKNqhG7n3yymEqRnaz3hMYUpVYqLXdKu2bx8=",
+      "url": "files\/posts\/img\/tokenexample.png"
+    },
+    {
       "hash": "sha256-aRShOsSABYdGTSQ1EAYVAsEX1djbAATvAZTljRvJV3g=",
       "url": "files\/posts\/javaEnvironment.md"
+    },
+    {
+      "hash": "sha256-BsD2rQGAP3D0gs8qUlJhxb69+2AC2YP8qRVm61k\/BRQ=",
+      "url": "files\/posts\/optimizeAIrequest.md"
     },
     {
       "hash": "sha256-co5+ywULODfiDSa7AovpX7i8rTOnXOtMZKWhdj3JFKo=",
@@ -405,9 +417,9 @@
       "url": "manifest.json"
     },
     {
-      "hash": "sha256-4KHln5JiKugXgmtzxSpS6bsYGQCxcKXCD4zZyt1zV30=",
+      "hash": "sha256-4QYxqV8oSRTm1AIrWoq677zHOzimJzze\/0FIL0AGjNc=",
       "url": "PostInfo.json"
     }
   ],
-  "version": "AmjhP2pd"
+  "version": "lbdXAoJx"
 };

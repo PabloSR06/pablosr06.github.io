@@ -33,7 +33,7 @@
       "url": "_framework\/icudt.dat"
     },
     {
-      "hash": "sha256-qsHueigJEkhBI\/F1A08Bjr1jApQm2AbRzz99C8FlRNo=",
+      "hash": "sha256-Nlj03vhPQKJZ8ybLM5ogOktQ7g327Hpkb6bOGXBYONQ=",
       "url": "_framework\/blazor.boot.json"
     },
     {
@@ -121,7 +121,7 @@
       "url": "_framework\/Microsoft.JSInterop.WebAssembly.dll"
     },
     {
-      "hash": "sha256-7dyk1NtzKIy7GQSAwdQVgHXJiam56Pq3rdeP57e36kY=",
+      "hash": "sha256-FrxALj0uD52OeisxZbZaD95Mn34zao7jcV4eNe7ZzFw=",
       "url": "_framework\/MyBlog.dll"
     },
     {
@@ -533,5 +533,5 @@
       "url": "PostInfo.json"
     }
   ],
-  "version": "cA0ilUu0"
+  "version": "A7Prg7Aw"
 };

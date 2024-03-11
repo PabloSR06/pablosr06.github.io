@@ -501,6 +501,10 @@
       "url": "files\/posts\/javaEnvironment.md"
     },
     {
+      "hash": "sha256-7g4FR3NnGjhoiWKRAJYFX9iPFMlMfiZB4Dx9uB7v2t8=",
+      "url": "files\/posts\/mysqlWithDocker.md"
+    },
+    {
       "hash": "sha256-BsD2rQGAP3D0gs8qUlJhxb69+2AC2YP8qRVm61k\/BRQ=",
       "url": "files\/posts\/optimizeAIrequest.md"
     },
@@ -529,9 +533,9 @@
       "url": "manifest.json"
     },
     {
-      "hash": "sha256-pFoH\/oytDtp9L0FIuxk2ZkJySd7SUts68UaSjZQKcUo=",
+      "hash": "sha256-g6Si3HmeLIuyvpPIaSidWwHL8dyxDB3HKBxxp8detTs=",
       "url": "PostInfo.json"
     }
   ],
-  "version": "tZ41t17g"
+  "version": "llrZi4Qu"
 };
